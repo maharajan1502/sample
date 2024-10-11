@@ -1,3 +1,9 @@
 Abcd onga appan thaadi
 
+<<<<<<< main
 
+=======
+Arif oru kiruku fire
+
+arif arif arif 
+>>>>>>> M
